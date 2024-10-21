@@ -36,7 +36,7 @@
 ## Histórias
 
 <details>
-  <summary>&#x2610; Registro e Perfil do Usuário</summary>
+  <summary>&#x2611; Registro e Perfil do Usuário</summary>
   <br>
   
   __História__: "Como usuário registrado, eu gostaria de criar um perfil personalizado onde pudesse registrar minhas preferências, desafios específicos como TDAH, e metas de estudo, além de monitorar meu progresso ao longo do tempo."
