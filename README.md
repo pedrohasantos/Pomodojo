@@ -36,7 +36,7 @@
 ## Histórias
 
 <details>
-  <summary>&#x2611; Registro e Perfil do Usuário</summary>
+  <summary>&#x2611;Perfil do Usuário</summary>
   <br>
   
   __História__: "Como usuário registrado, eu gostaria de criar um perfil personalizado onde pudesse registrar minhas preferências, desafios específicos como TDAH, e metas de estudo, além de monitorar meu progresso ao longo do tempo."
@@ -54,10 +54,54 @@
   __Confirmação__: Para que o perfil personalizado esteja funcionando corretamente, você deve ter registrado suas preferências, desafios e metas de estudo. O sistema deve estar monitorando e atualizando seu progresso regularmente com base nas informações fornecidas.
   
   <br>
+  <B>Trio Responsável:</B>
+
+  - João Victor Rocha
+  - João Constantino
+  - Pedro Henrique
+  <br>
+  
+  __Fluxograma de Sequência__:
+  
+  <img src="https://github.com/user-attachments/assets/942b5a27-0505-45c6-b46f-688c395cefdd" alt="Personalização dos Ciclos Pomodoro" width="300">
+
+  <br>
 </details>
 
 <details>
-  <summary>&#x2610; Personalização dos Ciclos Pomodoro</summary>
+  <summary>&#x2611;Registro de Usuários</summary>
+  <br>
+  
+  __História__: "Como usuário , eu gostaria de me registrar no site para poder desfrutar de suas ferramentas e usufruir dos recursos que ele pode me apresentar."
+
+  <br>
+  
+  __Cartão__: Registro de Usuários
+
+  <br>
+  
+  __Conversa__: O sistema solicita as informações necessárias para o cadastro. O usuário preenche seus dados. O sistema valida se respeita o padrão do requisito. A conta é criada.
+  
+  <br>
+
+  __Confirmação__: Para que o registro dos usuários esteja funcionando corretamente, o usuário deve preencher seus dados conforme requisitado, respeitando as limitações que o sistema lhe impõe.
+  
+  <br>
+  <B>Trio Responsável:</B>
+
+  - João Victor Rocha
+  - João Constantino
+  - Pedro Henrique
+  <br>
+
+  __Fluxograma de Sequência__:
+  
+  <img src="https://github.com/user-attachments/assets/7347c8b1-eadc-49af-bb25-a33d0e2de602" alt="Personalização dos Ciclos Pomodoro" width="300">
+  <br>
+</details>
+
+<details>
+  <summary>&#x2611; Personalização dos Ciclos Pomodoro</summary>
   <br>
   
   __História__: "Como usuário, eu gostaria de personalizar a duração dos ciclos de trabalho e pausas do Pomodoro, incluindo a possibilidade de adicionar períodos de descanso prolongado."
@@ -76,15 +120,31 @@
 
   <br>
 
+  __Dupla Responsável__:
+
+  - Ana Beatriz Romero
+  - Guilherme Barreto
+  <br>
+  
+  <img src="https://github.com/user-attachments/assets/6a06b9bb-9cf4-41f8-955e-79721a841d16" alt="Relatórios e Feedback de Progresso" width="300">
+  <br>
+
   __Sketch__:
   
   <img src="https://github.com/user-attachments/assets/499d180c-fdeb-4e55-815c-ceee20624bb1" alt="Personalização dos Ciclos Pomodoro" width="300">
 
   <br>
+  <br>
+  
+  __Fluxograma de Sequência__:
+  
+  <img src="https://github.com/user-attachments/assets/b9cc5f1a-0903-4a52-912d-b2d324f4cd0c" alt="Personalização dos Ciclos Pomodoro" width="300">
+
+  <br>
 </details>
 
 <details>
-  <summary>&#x2610; Tarefas e Metas Diárias</summary>
+  <summary>&#x2611; Tarefas e Metas Diárias</summary>
   <br>
   
   __História__: "Como usuário, eu gostaria de criar e gerenciar listas de tarefas, definir prioridades e estabelecer metas diárias ou semanais para manter meu foco e organização."
@@ -102,8 +162,21 @@
   __Confirmação__: Para que a funcionalidade de tarefas e metas diárias esteja funcionando corretamente, você deve ter criado suas listas de tarefas e definido as prioridades. Além disso, as metas diárias ou semanais devem estar visíveis e atualizadas conforme as tarefas são marcadas como concluídas.
 
   <br>
+  <B>Trio Responsável:</B>
+
+  - João Victor Rocha
+  - João Constantino
+  <br>
+
+  __Fluxograma de Sequência__:
+  
+  <img src="https://github.com/user-attachments/assets/d02cb0d6-ee57-4655-a405-10d01144db90" alt="Personalização dos Ciclos Pomodoro" width="300">
+
+  <br>
+
 
   __Sketch__:
+  
   
   <img src="https://github.com/user-attachments/assets/8e6561a4-6660-48cb-b352-2c9d6a68b35d" alt="Metas Diárias" width="300">
 
@@ -111,7 +184,7 @@
 </details>
 
 <details>
-  <summary>&#x2610; Integração com Técnicas de Foco</summary>
+  <summary>&#x2611; Integração com Técnicas de Foco</summary>
   <br>
   
   __História__: "Como usuário, eu gostaria de utilizar sons de fundo calmantes ou ruído branco para melhorar minha concentração durante os ciclos de estudo."
@@ -129,10 +202,24 @@
   __Confirmação__: Para que a integração com técnicas de foco funcione, você deve ter selecionado e ativado os sons de fundo desejadas ou ruído branco. O áudio deve estar ajustado de acordo com suas preferências e ser reproduzido durante os ciclos de estudo.
 
   <br>
+
+  __Dupla Responsável__:
+
+  - Ana Beatriz Romero
+  - Guilherme Barreto
   
+  <br>
+
   __Sketch__:
 
   <img src="https://github.com/user-attachments/assets/a8982860-5819-4bc8-a77d-b99f08ff2562" alt="Integração de Técnicas de Foco" width="300">
+
+  <br>
+  <br>
+  
+  __Fluxograma de Sequência__:
+  
+  <img src="https://github.com/user-attachments/assets/0c498e18-ece6-4483-b50a-6a1b3de5f3c4" alt="Personalização dos Ciclos Pomodoro" width="300">
 
   <br>
 </details>
@@ -213,7 +300,7 @@
 </details>
 
 <details>
-  <summary>&#x2610; Modo Noturno e Ajustes de Tela</summary>
+  <summary>&#x2611; Modo Noturno e Ajustes de Tela</summary>
   <br>
   
   __História__: "Como usuário, eu gostaria de ajustar o brilho, contraste e tema do aplicativo para o modo noturno ou de leitura, a fim de reduzir a fadiga ocular durante o uso prolongado."
@@ -229,6 +316,17 @@
   <br>
   
   __Confirmação__: Para que o modo noturno e os ajustes de tela estejam funcionando corretamente, você deve ter configurado o brilho, contraste e tema de acordo com suas preferências. O aplicativo deve refletir essas configurações para reduzir a fadiga ocular durante o uso prolongado.
+
+  <br>
+  <B>Dupla Responsável</B>:
+
+  - Ana Beatriz Romero
+  - Guilherme Barreto
+  <br>
+  
+  __Fluxograma de Sequência__:
+  
+  <img src="https://github.com/user-attachments/assets/57a902e8-7139-464c-9e87-bc74a490c82a" alt="Personalização dos Ciclos Pomodoro" width="300">
 
   <br>
 </details>
@@ -359,10 +457,31 @@
   <br>
 </details>
 
+<details>
+  <summary>&#x2611; Segredo ??????</summary>
+  <br>
+</details>
+
 ## Screencast
 
-https://github.com/user-attachments/assets/12d8a2f4-8312-4b47-bef0-f54aea24c1da
+
+
+https://github.com/user-attachments/assets/25b978a6-edf9-4801-8d31-8a83667a9930
+
+
 
 ## License
 
 MIT
+
+## pair programming
+### João Constantino / João Victor
+Trabalhar juntos em pair programming foi uma experiência prática e eficiente. Dividimos as funções de forma clara: enquanto um escrevia o código, o outro revisava e dava sugestões. Isso nos ajudou a identificar problemas rapidamente e melhorar o front-end da aplicação em tempo real. Teve várias situações em que ideias ou correções surgiram justamente por estarmos colaborando diretamente. No final, conseguimos entregar um trabalho mais completo e com menos retrabalho do que se tivéssemos feito tudo separados. Foi um método simples, mas que funcionou muito bem pra gente.
+
+### Beatriz Romero / Guilherme Barreto
+
+O trabalho em pair programming foi altamente colaborativo e eficiente. Dividimos as tarefas de forma estratégica, com  Bia focando no front-end e  Guilherme no back-end, mas sempre mantivemos uma comunicação constante para garantir a integração entre as partes. Quando surgiam dificuldades, nos apoiávamos mutuamente, trazendo diferentes perspectivas para solucionar os problemas de forma mais rápida e assertiva. Além disso, essa troca constante de conhecimentos não apenas acelerou o desenvolvimento, mas também fortaleceu nosso entendimento sobre as diversas áreas do projeto, tornando a experiência muito enriquecedora para ambos.
+
+### Pedro Afonso
+
+Após seu par sair do curso, Pedro ficou auxiliando as duas duplas e ajustes do ReadMe
